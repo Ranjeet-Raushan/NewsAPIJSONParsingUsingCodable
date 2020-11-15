@@ -1,10 +1,7 @@
-//
 //  AppDelegate.swift
 //  NewsAPIJSONParsingUsingCodable
-//
 //  Created by Ranjeet Raushan on 15/11/20.
 //  Copyright © 2020 Ranjeet Raushan. All rights reserved.
-//
 
 import UIKit
 
